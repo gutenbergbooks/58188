@@ -1,29 +1,7 @@
-The Project Gutenberg EBook of Oswald Cray, by Mrs. Henry Wood
-
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
-
-Title: Oswald Cray
-       A Novel
-
-Author: Mrs. Henry Wood
-
-Release Date: October 29, 2018 [EBook #58188]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK OSWALD CRAY ***
+*** START OF THE PROJECT GUTENBERG EBOOK 58188 ***
 
 
 
-
-Produced by Charles Bowen from page scans provided by Google Books
 
 
 
@@ -4894,7 +4872,7 @@ the driver and stoker, the one had saved himself by leaping from his
 engine, the other was flung to a distance, and lay there as he fell.
 
 Mark Cray, as you have heard, remained to tend the wounded. The first
-face he distinguished in the moonlight, lying amidst the débris of the
+face he distinguished in the moonlight, lying amidst the dÃ©bris of the
 overturned first-class carriage, was that of Lady Oswald: and so
 completely astonished was he to see it, that he thought either his
 eyes or the moon must be playing him false. He and Caroline had been
@@ -6465,7 +6443,7 @@ a situation of a different nature.
 
 Now this grand scheme was destroyed. As the rising waves dash away the
 "houses" built by children on the sands at the sea-shore, so this
-château en Espagne of Neal's was dashed down by the death of Lady
+chÃ¢teau en Espagne of Neal's was dashed down by the death of Lady
 Oswald. If Neal's cold and selfish heart could like any one, it had
 liked her. She had kept up friendly relations with Neal, as a former
 retainer of Sir John and Thorndyke; had shown more consideration to
@@ -14605,7 +14583,7 @@ so great a contrast to the past: the past which was at an end for
 ever.
 
 He went out, shown through the hall by Jessy, and leaving his card on
-the standing waiter for Miss Davenal. All _en règle_. And Sara in the
+the standing waiter for Miss Davenal. All _en rÃ¨gle_. And Sara in the
 large drawing-room, so dreary now, remained on in her pain, alone.
 
 
@@ -15846,7 +15824,7 @@ key in it.
 "So I had, Miss. I came up now for this vase. My mistress said it was
 to be washed."
 
-He went downstairs carrying it: a valuable vase of Sèvres porcelain,
+He went downstairs carrying it: a valuable vase of SÃ¨vres porcelain,
 never intrusted to the hands of anybody but Neal. It had belonged to
 poor Richard--was presented to him just before he went out on his
 unfortunate voyage. Sara walked to her desk; it stood on the centre
@@ -16903,7 +16881,7 @@ gracious Queen, they felt uncomfortable, and attempted a sort of
 apology that they had brought no evening dress with them to town.
 
 And the dinner is in accordance with Caroline's attire. Soup, and
-fish, and _entrées_, and roasts, and jellies, and sweets, and
+fish, and _entrÃ©es_, and roasts, and jellies, and sweets, and
 fal-lals; and more sorts of wine than the Miss Fords, simple and
 plain, could remember afterwards to count; and flowers, and plate,
 and servants in abundance: and grandeur enough altogether for the
@@ -17347,7 +17325,7 @@ before she could see Alfred King, and she wandered into the quiet
 courts of the Temple, and came to the larger garden.
 
 The gate-keeper would not admit her to it at first; she had not the
-_entrée_, he said; but she told him her case: that she was a stranger,
+_entrÃ©e_, he said; but she told him her case: that she was a stranger,
 and had to wait an hour and a half to keep an appointment at a
 solicitor's in Essex Street. Her sweet face and her plaintive
 tone--for the voice catches the mind's sorrow--won him over, and,
@@ -17726,7 +17704,7 @@ gallantly.
 
 Caroline laughed; a little all-conscious laugh of vanity. She laid her
 beautiful bonnet of real lace and marabouts--and for which the
-milliner would assuredly charge £10--on a side-table, and threw off
+milliner would assuredly charge Â£10--on a side-table, and threw off
 her costly white lace mantle. The folds of her silk dress, its colour
 the delicate bloom of the spring lilac, rustled as she went back to
 the window.
@@ -19705,13 +19683,13 @@ CHAPTER XLVIII.
 DAY-DREAMS RUDELY INTERRUPTED.
 
 
-Before a costly breakfast service of Sèvres porcelain, with its
+Before a costly breakfast service of SÃ¨vres porcelain, with its
 adjuncts of glittering silver, on the morning subsequent to the visit
 of Mr. Brackenbury, had sat Caroline Cray, in a charming morning robe
 of white muslin and blue ribbons, with what she would have called a
 _coiffure_, all blue ribbons and white lace, on her silky hair. A
 stranger, taking a bird's-eye view of the scene, of the elegant room,
-the expensive accessories, the recherché attire of its mistress, would
+the expensive accessories, the recherchÃ© attire of its mistress, would
 have concluded that there was no lack of means, that the income
 supporting all this must at least be to the extent of some thousands
 a-year.
@@ -19720,12 +19698,12 @@ In truth Mark Cray and his wife were a practical illustration of that
 homely but expressive saying which must be so familiar to you all;
 _they had begun at the wrong end of the ladder_. When fortune has
 come; when it is actually realised, in the hands, then the top of the
-ladder, comprising its Sèvres porcelain and other costs in accordance,
+ladder, comprising its SÃ¨vres porcelain and other costs in accordance,
 may be safe and consistent; but if we _begin_ there without first
 climbing to it, too many of us have an inconvenient fashion of
 slipping down again. The furniture surrounding Caroline Cray was of
 the most beautiful design, the most costly nature; the lace on that
-morning-robe, on that pretty "coiffure," would make a hole in a £20
+morning-robe, on that pretty "coiffure," would make a hole in a Â£20
 bank-note, the silver ornaments on the table were fit for the first
 palace in the land, and Mr. and Mrs. Cray had got these things about
 them--and a great deal more besides which I have not time to tell you
@@ -20057,7 +20035,7 @@ since his first departure from them. They burst bounds, in tongue at
 any rate, and talked of warrants and prosecutions and various
 inconvenient things. Other shareholders joined in the general fury,
 and it may perhaps be excused to them that when the carriage of Mark
-Cray suddenly appeared in the general melée, they turned their rage
+Cray suddenly appeared in the general melÃ©e, they turned their rage
 upon it.
 
 That is, they pressed round it and saluted it with reproaches not at
@@ -21775,7 +21753,7 @@ find the minuter points of the filling-in even more interesting. The
 whole made a magnificent tableau, which, once seen, must rest upon the
 charmed mind for ever.
 
-The Hôtel du Cheval Blanc, situated at one end of the town,
+The HÃ´tel du Cheval Blanc, situated at one end of the town,
 was perhaps the best spot in all Honfleur for admiring this
 panorama--unless, indeed, you mounted the heights above. Standing in
 one of the end rooms of this hotel on the second floor, whose windows
@@ -22120,9 +22098,9 @@ productive of some temporary difficulty.
 
 They started after their early dinner. M. Le Bleu lived not very far
 from them, but in the heart of the town, and Mark began by calling him
-Mr. Blue, _sans cérémonie_. Mark had learned French at school, and
+Mr. Blue, _sans cÃ©rÃ©monie_. Mark had learned French at school, and
 therefore considered himself a French scholar. On the door was a brass
-plate--"M. Le Bleu, Médecin;" and a young woman in a red petticoat,
+plate--"M. Le Bleu, MÃ©decin;" and a young woman in a red petticoat,
 grey stockings, and sabots, came to the door in answer to the ring.
 
 "Is Mr. Blue at home?" demanded Mark. "Mossier Blue, chez elle?"
@@ -22152,13 +22130,13 @@ name"--handing in his card.
 The Frenchman was a little puzzled by so much English all at once, and
 relieved himself by looking at the card.
 
-"Ah, c'est ça, Meestare Cr--Cr--Craw," pronounced the doctor, arriving
+"Ah, c'est Ã§a, Meestare Cr--Cr--Craw," pronounced the doctor, arriving
 with satisfaction at the name after some stammering. "And Madame what
 has she?"
 
 "Malade," briefly responded Mark. "Elle a une--une--lump--come in
-the--the (what's French for side, I wonder?) in the côté. Ici,
-Messeu," touching himself; "mais il est très petite encore; no larger
+the--the (what's French for side, I wonder?) in the cÃ´tÃ©. Ici,
+Messeu," touching himself; "mais il est trÃ¨s petite encore; no larger
 than a--a--petite pois."
 
 Clearly the gentleman did not understand. Mark had drawn him aside, so
@@ -22184,8 +22162,8 @@ Monsieur Le Bleu tried hard to understand. "Where you say it is, sare,
 the mal? Est-ce que c'est une blessure?"
 
 "It's here," said Mark, touching _him_ now. "It came of itself--venait
-tout seule, grande at first comme the tête of an épingle, not much
-more; à présent larger than a big pea--a petite pois."
+tout seule, grande at first comme the tÃªte of an Ã©pingle, not much
+more; Ã  prÃ©sent larger than a big pea--a petite pois."
 
 The doctor's ear was strained, and a faint light broke upon it. He had
 enjoyed the pleasure of conversing with English patients before; in
@@ -22214,15 +22192,15 @@ French completely breaking down.
 "Bon," said the surgeon, wishing Mark did not talk English quite so
 fast. "Madame has not consultayed a docteur donc, encore?"
 
-"Only me," replied Mark. "I'm a doctor myself--docteur moi-même,
+"Only me," replied Mark. "I'm a doctor myself--docteur moi-mÃªme,
 Messeu."
 
-"Ah, Monsieur est médecin lui-même," cried the doctor, making a
+"Ah, Monsieur est mÃ©decin lui-mÃªme," cried the doctor, making a
 succession of bows in his politeness. "That will facilitate our
-understandings, sare. Has Madame the good--the bonne santé de
+understandings, sare. Has Madame the good--the bonne santÃ© de
 l'ordinaire?" he continued, coming to a breakdown himself.
 
-"Santé de l'ordinaire!--I wonder what that is," debated Mark within
+"SantÃ© de l'ordinaire!--I wonder what that is," debated Mark within
 himself. "Vin ordinaire means thin claret, I know. I no comprendre,
 Messeu," he confessed aloud. "Ma femme eats and drinks everything."
 
@@ -22233,13 +22211,13 @@ ask?"
 he exclaimed in astonishment. "She's as sane as you or I. What on
 earth put that in your head, Messeu? she doesn't look mad, I hope!"
 
-"I no say mad," disclaimed Messeu. "I ask if she--ah, voilà le mot,
+"I no say mad," disclaimed Messeu. "I ask if she--ah, voilÃ  le mot,
 quel bonheur!--if she healthy?--if she partake of the good
 constitution?"
 
 A recollection flashed across Mark Cray's memory of a doubt he had
 once heard drop from Dr. Davenal as to whether Caroline's constitution
-was a healthy one. "Elle a porté très bien," was his answer to
+was a healthy one. "Elle a portÃ© trÃ¨s bien," was his answer to
 Monsieur, plunging into his French again. "This mayn't be anything,
 you know, Messeu."
 
@@ -22248,7 +22226,7 @@ you know, Messeu."
 "Which buttons," demanded Mark.
 
 "The buttons you do me the honour to consult for. Je ne les aime pas,
-soit clou, soit tumeur--n'importe pour l'espèce. In the place you
+soit clou, soit tumeur--n'importe pour l'espÃ¨ce. In the place you
 indicate to me it is like to be a tumeur, and she is obstinate."
 
 "Who is, Messeu?" asked Mark, in doubt whether the incomprehensible
@@ -22288,7 +22266,7 @@ moment. Bite Madame? What on earth was "sonsues?"
 to his finger. "You call them litch--litch--"
 
 "Leeches!" interrupted Mark, with a laugh. "I could not understand,
-moi; Je pensé, Messeu, que vous--vous--speak of wild beasts."
+moi; Je pensÃ©, Messeu, que vous--vous--speak of wild beasts."
 
 "Yas," said the doctor complacently, "I thought you understand, sare."
 
@@ -22299,7 +22277,7 @@ Madame. I would see the hurt, me. I go to your house, sare, and meet
 Madame without her robe. I go tomorrow at four of the clock after
 twelve, if that will arrange you."
 
-"So be it," returned Mark, when he had puzzled out the words "Je dis à
+"So be it," returned Mark, when he had puzzled out the words "Je dis Ã 
 ma femme que--que--it was of no use for her to call here, herself;
 you'd want to see her dishabillayed. Je vous merci, Messeu."
 
@@ -22318,7 +22296,7 @@ October of that same year 1861. The first fortnight of the month was
 more lovely than can be imagined of October; it was brilliant and warm
 as summer.
 
-Toiling up the ascent of the Côte de Grace went Mark Cray and his wife
+Toiling up the ascent of the CÃ´te de Grace went Mark Cray and his wife
 on one of these delightful days. The word toiling would be misapplied
 to you, I hope, for the way is gentle, the ascent easy; but it was
 toil now to Caroline Cray. The past three or four months had made a
@@ -22326,7 +22304,7 @@ great change in her: health and spirits had alike sunk. As the lump
 got larger--we may as well call it by its familiar name--the body got
 weaker, and she felt the fatigue of walking now. Mark and the
 weather's unusual beauty had tempted her out, and they had taken the
-way through the town to the Cête de Grace.
+way through the town to the CÃªte de Grace.
 
 Winding up the shady road--and the sun was too hot not to make the
 shade welcome--they gained the top. Caroline sat down at once on a
@@ -22411,7 +22389,7 @@ enclosed and accommodating gardens of entertainment, where you might
 order a dinner and eat it _al fresco_, or where you might take your
 own basket of provisions and they would bring you drink from the
 house, wine, milk, beer, lemonade, or coffee, at choice. Behind her,
-looking beyond, rose the little Chapelle de Nôtre-Dame-de-Grâce, on
+looking beyond, rose the little Chapelle de NÃ´tre-Dame-de-GrÃ¢ce, on
 whose interior walls were recorded accounts of devoted pilgrims who
 had toiled on crutches up to the shrine, and whose faith Our Lady had
 rewarded by an instantaneous cure, whereupon they went down rejoicing,
@@ -22438,7 +22416,7 @@ It was a very obstinate side, as M. Le Bleu would express it, a very
 persistent, provoking lump, and that renowned practitioner--who was
 really a skilful man, for all his obscure English--had formed his own
 opinion upon it. It baffled him and his remedies persistently. Even
-those highly-regarded bêtes, the sangsues, had tried their best to
+those highly-regarded bÃªtes, the sangsues, had tried their best to
 subdue it--and tried in vain. Evidently the effective remedy was not
 sangsues. The lump had had its own way all these months. It had been
 growing larger and larger, giving by degrees more and more pain.
@@ -22454,8 +22432,8 @@ This day has been noticed because it was a sort of turning-point in
 this persistent malady: not a turning for better but for worse.
 Whether the walk up the hill injured her--for perhaps she had grown
 really unfit for it--or whether the disease itself made a sudden leap
-onwards, certain it was that poor Mrs. Cray never went up the Côte de
-Grâce again. She walked home with Mark very slowly, and fainted when
+onwards, certain it was that poor Mrs. Cray never went up the CÃ´te de
+GrÃ¢ce again. She walked home with Mark very slowly, and fainted when
 she got in. Mark did not like her look, and ran off for Monsieur Le
 Bleu. It was only the fatigue, she said to them: but the next morning
 she did not rise from her bed.
@@ -23128,7 +23106,7 @@ he was content to let the home remain in abeyance, and lived in the
 old rooms, putting up with the comforts and agreeables Mrs. Benn chose
 to provide for him. The first thing Caroline did, on being placed on
 an easy chair, was to faint away. It was the only time she had fainted
-since the day in October when she walked to the Côte de Grâce. Mark
+since the day in October when she walked to the CÃ´te de GrÃ¢ce. Mark
 Cray gave fatigue the benefit of the blame then, and it was probably
 due to the same cause now. When Mrs. Benn came up in answer to
 Oswald's summons, nothing could well exceed her amazement at seeing a
@@ -23647,7 +23625,7 @@ inconvenient way of not allowing you to evade such mandates. It was
 not pleasant to be reduced to a meal or so a day, and that not a
 sumptuous one; it was not convenient to be restricted to the pair of
 boots he had on, and to know that the soles were letting in the wet;
-it was not cheery to be out of charcoal for the cooking _réchauds_, or
+it was not cheery to be out of charcoal for the cooking _rÃ©chauds_, or
 to have but a shovelful of coals left for the parlour; moreover and
 above all, it was most especially annoying and unbearable not to have
 had the money to pay for a letter that morning, and which, in
@@ -23757,7 +23735,7 @@ wanted to say it--such jargon as the fellow talked to be sure!--but
 Blue's nothing better than an old woman. By the way, I wonder how long
 Blue intends to stop away! It's fine for these French fellows, taking
 a holiday when they choose, and leaving their patients to a
-_confrère_! I wish he had left _me_ the _confrère_ on the occasion,
+_confrÃ¨re_! I wish he had left _me_ the _confrÃ¨re_ on the occasion,
 t'would have been a few francs, at any rate, in my pocket. The French
 wouldn't have had that, I suppose! their envious laws won't permit an
 Englishman to practice on them. Oh, if some rich countryman of one's
@@ -23796,7 +23774,7 @@ kicking pebbles into the manche: Mr. Mark Cray grew tired of his
 pastime, and turned finally away from it. He sauntered through the
 waste ground underneath the side windows of the hotel, his ears nearly
 deafened by the noise of the rough boys who were quarrelling in groups
-over their marbles, made a _détour_ across the bridge, glanced askance
+over their marbles, made a _dÃ©tour_ across the bridge, glanced askance
 at the slip of building grandly designated Bureau des Postes, and
 turned off towards his home. It was a soft, calm evening in January,
 gloomy enough overhead, but in the west the sky was clearing, and a
@@ -23832,7 +23810,7 @@ sare, if you have the news from madame?"
 
 "She's worse, and can't come back," said Mark. "Plus malade. Not to be
 cured at all, they say, which I don't believe; pas croyable; messeu. I
-don't believe the English médecin understands the case. Non! jamais."
+don't believe the English mÃ©decin understands the case. Non! jamais."
 
 "Do I not say two--three--four months ago, me? I know she not curable
 I feel sure what it was. You call it 'lump' and 'bouton'--bah! C'est
@@ -23877,7 +23855,7 @@ letter to Mark. Mark spoke some obscure words about repaying him
 on the morrow, and broke the seal.
 
 There was still light enough to see, though very obscurely, and Mark
-Cray's dazed eyes fell on a bank-note for £5. The surgeon had bade him
+Cray's dazed eyes fell on a bank-note for Â£5. The surgeon had bade him
 goodnight, and was walking away with the postman: Mark Cray was only
 half-conscious of their departure. Debt did not affect Mark as it does
 those ultra-sensitive spirits who can but sink under its ills:
@@ -25719,7 +25697,7 @@ carried out, and fortune is at hand."
 "What's at hand?" asked Miss Bettina.
 
 "Fortune," repeated Mark. "I shall take one of those nice little boxes
-in the Champs Elysées. Some of them are charming. Or perhaps only part
+in the Champs ElysÃ©es. Some of them are charming. Or perhaps only part
 of one if--if Carine--O dear! it is hard for her that this luck did
 not fall in a year ago! I wonder," broke off Mark, passing to another
 phase of his future visions, "I wonder whether, if it were possible to
@@ -25784,7 +25762,7 @@ understood.
 
 "There's the most beautiful home getting ready for you in Paris
 Carine," he resumed, his voice sounding as if he were on the verge of
-tears. "We'll live in the Champ Elysées; it is the loveliest spot, and
+tears. "We'll live in the Champ ElysÃ©es; it is the loveliest spot, and
 you can't fail to grow better there, if we can only get your disease
 to turn. O Carine! don't leave me just when I am able to surround you
 with wealth and luxury again! This will be a greater and a surer thing
@@ -26003,7 +25981,7 @@ supposed to be in readiness for him. Not _quite_ ready, however, he
 found when he got there; some trifling preliminaries had to be
 completed yet. Mark thought nothing of the check: he was sanguine:
 Barker was sanguine; it was only a little delay: and Mark amused
-himself most agreeably, looking at the houses in the Champs Elysées,
+himself most agreeably, looking at the houses in the Champs ElysÃ©es,
 against the time came that he should require to fix upon one.
 
 Mark's friends in England heard nothing of him until the middle of the
@@ -26224,363 +26202,4 @@ THE END.
 
 End of the Project Gutenberg EBook of Oswald Cray, by Mrs. Henry Wood
 
-*** END OF THIS PROJECT GUTENBERG EBOOK OSWALD CRAY ***
-
-***** This file should be named 58188-8.txt or 58188-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/5/8/1/8/58188/
-
-Produced by Charles Bowen from page scans provided by Google Books
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org
-
-
-
-Section 3. Information about the Project Gutenberg Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+*** END OF THE PROJECT GUTENBERG EBOOK 58188 ***
